@@ -1,2 +1,2 @@
-# ShiVaNet
-Shift Variant Aberration Correction using Deep Learning
+# SHIVANet
+SHift VAriant Aberration Correction using Deep Learning
